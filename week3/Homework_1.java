@@ -26,7 +26,7 @@ public class Homework_1 {
 			base_temp = s.nextDouble();
 			System.out.println("화씨 온도는 "+base_temp * 1.8 + 32);
 		}
-
+		s.close();
 	}
 
 }
